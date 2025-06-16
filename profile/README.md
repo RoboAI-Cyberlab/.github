@@ -5,7 +5,11 @@ Olemme Satakunnan ammattikorkeakoulun RoboAI-tutkimuskeskuksen kyberturvallisuud
 
 Missiomme on tehdä kyberturvallisuudesta selkeää, saavutettavaa ja käytännönläheistä. Astu mukaan ja vie kyberturvallisuutesi uudelle tasolle kanssamme!
 
-[cyberlab.roboai.fi](https://cyberlab.roboai.fi/)
+Linkkejä
+
+- [cyberlab.roboai.fi](https://cyberlab.roboai.fi)
+- [www.roboai.fi](https://www.roboai.fi)
+- [www.samk.fi](https://www.samk.fi)
 
 ## Hankkeet
 
