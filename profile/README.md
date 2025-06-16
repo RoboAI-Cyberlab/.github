@@ -1,4 +1,15 @@
-# Kytee – Kyberturvaa Satakunnan teollisuuteen
+
+# RoboAI Cyberlab
+
+Olemme Satakunnan ammattikorkeakoulun RoboAI-tutkimuskeskuksen kyberturvallisuuden asiantuntijayksikkö. Yhdistämme osaamisen tietotekniikan ja teollisuuden aloilta ja autamme yrityksiä suojaustason kehittämisessä, kyberuhkien ennaltaehkäisyssä ja täyttämään lainsäädännön vaatimuksia.
+
+Missiomme on tehdä kyberturvallisuudesta selkeää, saavutettavaa ja käytännönläheistä. Astu mukaan ja vie kyberturvallisuutesi uudelle tasolle kanssamme!
+
+[cyberlab.roboai.fi](https://cyberlab.roboai.fi/)
+
+## Hankkeet
+
+### Kytee – Kyberturvaa Satakunnan teollisuuteen
 
 Kyberturvaa Satakunnan teollisuuteen (Kytee) -hankkeen tavoitteena on levittää kyberturvallisuuteen ja EU-direktiiveihin (erityisesti NIS2) liittyvää tietoutta, tehdä kyberturvakartoituspilotteja, luoda SAMKiin kyberturvaharjoitusympäristö ja olla mukana valtakunnallisessa yhteistyöverkostossa.
 
