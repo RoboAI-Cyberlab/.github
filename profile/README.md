@@ -13,7 +13,7 @@ Linkkejä
 
 ## Hankkeet
 
-### Kytee – Kyberturvaa Satakunnan teollisuuteen
+### Kytee – Kyberturvaa Satakunnan teollisuuteen (1.4.2024 – 31.5.2026)
 
 Kyberturvaa Satakunnan teollisuuteen (Kytee) -hankkeen tavoitteena on levittää kyberturvallisuuteen ja EU-direktiiveihin (erityisesti NIS2) liittyvää tietoutta, tehdä kyberturvakartoituspilotteja, luoda SAMKiin kyberturvaharjoitusympäristö ja olla mukana valtakunnallisessa yhteistyöverkostossa.
 
