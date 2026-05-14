@@ -8,7 +8,7 @@ Missiomme on tehd채 kyberturvallisuudesta selke채채, saavutettavaa ja k채yt채nn�
 Linkkej채
 
 - [cyberlab.roboai.fi](https://cyberlab.roboai.fi)
-- [www.roboai.fi](https://www.roboai.fi)
+- [www.roboai.fi](https://www.roboai.fi/tietoa-meista/roboai-cyber/)
 - [www.samk.fi](https://www.samk.fi)
 
 ## Hankkeet
