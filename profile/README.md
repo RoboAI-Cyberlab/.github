@@ -13,7 +13,7 @@ Linkkejä
 
 ## Hankkeet
 
-### Kultti – Kyberturvaa Satakunnan teollisuuteen (1.9.2026 – 31.12.2027)
+### Kultti (1.9.2026 – 31.12.2027)
 
 Kuvaus tulossa.
 
