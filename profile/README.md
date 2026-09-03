@@ -13,9 +13,11 @@ Linkkejä
 
 ## Hankkeet
 
-### Kultti (1.9.2026 – 31.12.2027)
+###  Kultti – Kyberturvallisuuden ja tietoturvakulttuurin kehittäminen pk-yrityksissä (1.9.2026 – 31.12.2027)
 
-Kuvaus tulossa.
+Kyberturvallisuuden ja tietoturvakulttuurin kehittäminen pk-yrityksissä (Kultti) -hankkeen tavoitteena on kehittää pk-yrityksille soveltuva toimintamalli kyberriskien tunnistamiseen, priorisointiin ja hallintaan, vahvistaa yritysten tietoturvakulttuuria ja kytkeä kyberturvallisuus osaksi strategista johtamista, toteuttaa yrityksissä nykytilan kartoituksia, työpajoja ja ohjattuja kehittämisprosesseja sekä levittää tulokset avoimesti kaikkien hyödynnettäviksi.
+
+[Tutustu hankkeeseen](https://www.roboai.fi/tutkimus-ja-tuotekehitys/projektit/kultti/)
 
 <img src="https://github.com/RoboAI-Kytee/.github/blob/main/profile/euroopan-unionin-osarahoittama.png" alt="Euroopan unionin osarahoittama" height="60"> <img src="https://github.com/RoboAI-Kytee/.github/blob/main/profile/satakuntaliitto.png" alt="Satakuntaliitto" height="60">
 
