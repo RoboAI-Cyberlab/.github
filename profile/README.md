@@ -13,6 +13,12 @@ Linkkejä
 
 ## Hankkeet
 
+### Kultti – Kyberturvaa Satakunnan teollisuuteen (1.9.2026 – 31.12.2027)
+
+Kuvaus tulossa.
+
+<img src="https://www.roboai.fi/wp-content/uploads/2019/02/pysty_valkoinen_rgb-287x300.png" alt="RoboAI" height="100"> <img src="https://www.roboai.fi/wp-content/uploads/2020/05/Logo_suomi_4v_pienempi-300x185.png" alt="Satakunnan ammattikorkeakoulu" height="100"> <img src="https://github.com/RoboAI-Kytee/.github/blob/main/profile/euroopan-unionin-osarahoittama.png" alt="Euroopan unionin osarahoittama" height="60"> <img src="https://github.com/RoboAI-Kytee/.github/blob/main/profile/satakuntaliitto.png" alt="Satakuntaliitto" height="60">
+
 ### Kytee – Kyberturvaa Satakunnan teollisuuteen (1.4.2024 – 31.5.2026)
 
 Kyberturvaa Satakunnan teollisuuteen (Kytee) -hankkeen tavoitteena on levittää kyberturvallisuuteen ja EU-direktiiveihin (erityisesti NIS2) liittyvää tietoutta, tehdä kyberturvakartoituspilotteja, luoda SAMKiin kyberturvaharjoitusympäristö ja olla mukana valtakunnallisessa yhteistyöverkostossa.
