@@ -15,7 +15,9 @@ Linkkejä
 
 ###  Kultti – Kyberturvallisuuden ja tietoturvakulttuurin kehittäminen pk-yrityksissä (1.9.2026 – 31.12.2027)
 
-Kyberturvallisuuden ja tietoturvakulttuurin kehittäminen pk-yrityksissä (Kultti) -hankkeen tavoitteena on kehittää pk-yrityksille soveltuva toimintamalli kyberriskien tunnistamiseen, priorisointiin ja hallintaan, vahvistaa yritysten tietoturvakulttuuria ja kytkeä kyberturvallisuus osaksi strategista johtamista, toteuttaa yrityksissä nykytilan kartoituksia, työpajoja ja ohjattuja kehittämisprosesseja sekä levittää tulokset avoimesti kaikkien hyödynnettäviksi.
+Kultti-hanke keskittyy pk-yritysten kyberturvallisuuden ja tietoturvakulttuurin kehittämiseen. Hankkeen tavoitteena on auttaa yrityksiä siirtymään kyberturvallisuuden nykytilan arvioinnista kohti käytännön kehittämistä, jatkuvaa parantamista ja osaksi liiketoiminnan johtamista.
+
+Hankkeessa kehitetään pk-yrityksille soveltuva toimintamalli, jonka avulla yritykset voivat tunnistaa ja hallita kyberriskejä, vahvistaa tietoturvakulttuuriaan sekä kytkeä kyberturvallisuuden osaksi liiketoiminnan johtamista.
 
 [Tutustu hankkeeseen](https://www.roboai.fi/tutkimus-ja-tuotekehitys/projektit/kultti/)
 
